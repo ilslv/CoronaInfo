@@ -1,3 +1,5 @@
+# Важно
+Заполни [таблицу](https://docs.google.com/spreadsheets/d/1aI8AdP3E05KZounaQD8TWpos7mA1WSM3z8hspeG9Qn0/edit#gid=0) до понедельника
 # Ежедневная рутина
 - Отметь, что ты живой [тут](https://docs.google.com/spreadsheets/d/1gQ7_TradRIQWiijglzW_WQbIzszmXa4F8UDewKcCYD4/edit#gid=0)
 - Обязательно напиши в `мир, труд, майя`, если тебя нет на лекции или практике (даже если просто не смотришь стрим)
