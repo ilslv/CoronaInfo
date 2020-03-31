@@ -1,7 +1,6 @@
 # Важно
 [![Случаев в мире](https://img.shields.io/badge/dynamic/json?color=critical&label=%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%20%D0%B2%20%D0%BC%D0%B8%D1%80%D0%B5&query=%24.cases&url=http%3A%2F%2Fapi.coronastatistics.live%2Fall)](https://coronavirus.jhu.edu/map.html)
-[![Случаев в Беларуси](https://img.shields.io/badge/dynamic/json?color=red&label=%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%20%D0%B2%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8&query=%24.cases&url=http%3A%2F%2Fapi.coronastatistics.live%2Fcountries%2Fbelarus)](https://coronavirus.jhu.edu/map.html) \
-Заполни [таблицу](https://docs.google.com/spreadsheets/d/1aI8AdP3E05KZounaQD8TWpos7mA1WSM3z8hspeG9Qn0/edit#gid=0) до понедельника
+[![Случаев в Беларуси](https://img.shields.io/badge/dynamic/json?color=red&label=%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%20%D0%B2%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8&query=%24.cases&url=http%3A%2F%2Fapi.coronastatistics.live%2Fcountries%2Fbelarus)](https://coronavirus.jhu.edu/map.html)
 # Ежедневная рутина
 - Отметь, что ты живой [тут](https://docs.google.com/spreadsheets/d/1gQ7_TradRIQWiijglzW_WQbIzszmXa4F8UDewKcCYD4/edit#gid=0)
 - Обязательно напиши в `мир, труд, майя`, если тебя нет на лекции или практике (даже если просто не смотришь стрим)
