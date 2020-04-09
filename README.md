@@ -7,7 +7,7 @@
 - Напиши [лучшей старосте в мире](http://t.me/may_sredi_yanvarei), если тебя забрали в больничку, ты переехал или сменил номер телефона
 # Учеба
 ## Расписание
-[Ссылка от деканата](https://fpmi.bsu.by/sm_full.aspx?guid=58083)
+[Ссылка от деканата](https://fpmi.bsu.by/sm_full.aspx?guid=58083) \
 [Таблица посещаемости](https://docs.google.com/spreadsheets/d/1rz_nAVVNb81h-7abMKM-VvdZbLfZoml6-BgnopJ0cEw/edit)
 ### АиСД
 Практика: можно работать онлайн или в БГУ, но строго по расписанию 8:15-9:45
